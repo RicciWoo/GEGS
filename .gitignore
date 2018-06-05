@@ -7,4 +7,4 @@
 *.vcxproj
 *.vcxproj.user
 Debug
-output
+output/!README.!MD
